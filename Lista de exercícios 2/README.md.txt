@@ -10,9 +10,11 @@ Professor: Fabrício Rodrigues Inácio
 
 L02EX01.Soma dos dígitos
 Escreva uma função recursiva que retorne a soma dos dígitos de um número inteiro.
+* ![PrintExecucao](L02EX01.png)
 
 L02EX02.Potência de um número
 Escreva uma função recursiva que calcule a potência de um número, dado a base e o expoente.
+* ![PrintExecucao](L02EX02.png)
 
 L02EX03.Inversão de string
 Implemente uma função recursiva que inverta uma string.
@@ -51,3 +53,4 @@ Exemplo:
 ...
 
 10 → Exercício 10
+
