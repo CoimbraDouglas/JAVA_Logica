@@ -1,8 +1,11 @@
 # 📘 Exercícios de Linguagens de Programação
 
 **Disciplina:** Linguagens de Programação
+
 **Professor:** Fabrício Rodrigues Inácio
+
 **Instituição:** Newton Paiva Wyden
+
 **Curso:** Análise e Desenvolvimento de Sistemas
 
 ---
