@@ -53,8 +53,4 @@ $$
   * Sequência: `6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1`
   * Total de passos: `8`.
 
----
 
-## 🔑 Conceitos Praticados
-
-*
