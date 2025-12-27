@@ -1,18 +1,19 @@
 # 📘 Exercícios de Linguagens de Programação
 
-**Disciplina:** Linguagens de Programação
+📚 **Disciplina:** Arquitetura de Aplicacoes Web 
 
-**Professor:** Fabrício Rodrigues Inácio
+👨‍🏫 **Professor:** Fabrício Rodrigues Inácio
 
-**Instituição:** Newton Paiva Wyden
+🏫 **Instituição:** Centro Universitário Newton Paiva 
 
-**Curso:** Análise e Desenvolvimento de Sistemas
+✍️ **Aluno:** Douglas Coimbra Laass.
+
 
 ---
 
 ## 📂 Estrutura Geral
 
-Este repositório está organizado em **8 pastas**, cada uma contendo listas de exercícios e implementações em **Java**, que foram desenvolvidas ao longo da disciplina de **Linguagens de Programação**.
+Este repositório está organizado em **8 pastas**, cada uma contendo listas de exercícios e implementações em `Java`, que foram desenvolvidas ao longo da disciplina de **Linguagens de Programação**.
 
 Cada pasta contém diferentes conjuntos de problemas, abrangendo desde fundamentos básicos até conceitos mais avançados da programação em Java.
 
