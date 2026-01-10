@@ -45,7 +45,7 @@ O objetivo dos exercícios é **praticar e consolidar os principais conceitos de
 
 * Cada exercício foi desenvolvido de forma **independente**.
 * Os códigos possuem comentários explicativos para facilitar a compreensão.
-* A organização em pastas facilita o acompanhamento da evolução dos conteúdos estudados.
+* A organização em pastas facilita o acompanhamento da evolução dos conteúdos estudados. *Para melhor entendimento recomendo seguir a ordem dos pastas.*
 
 ---
 
